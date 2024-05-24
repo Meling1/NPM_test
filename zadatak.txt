@@ -1,0 +1,19 @@
+zadatak nam je kreirati node modul koji nam ispisuje
+ tip podatka iz vrijednosti koje smo mu poslali.
+Modul je ovisan o lodash aplikaciji.
+
+1. inicijalizirajte node modul u folderu. Dodajte sve nuzne podatke o modulu.
+2. instalirajte lodash paket i dodajte u ovisne pakete (dependencies).
+3. napisite funkciju koja provjerava tip podatka na temelju parametara i ispisuje ju.
+
+bitno za test: NPM INIT I NPM INSTALL < ime paketa >
+mozemo koristiti install ili samo i !!
+kako se koriste back tickovi ( ` )
+
+node module ne stavljamo na git jer je veliko i
+ jer nam u "dependencies" pise sta si sve trebamo instalirat.
+ i dodamo onda .gitignore
+
+ ovdje je bitno da sejvamo fajl prije ukucavanja "node i ime fajla"
+ inace vs code sam sejva fajl kada stisnemo F5 pa ne moramo sami,
+  ali kada rucno u terminalu zelimo ispisati u konzolu koristeci rijeci : node i ime fajla, moramo prethodno sejvati.
